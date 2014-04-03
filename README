@@ -1,0 +1,2 @@
+Python scripts for my Coursera Python class Spring 2014
+rpsls.py -- a script to run a simple no-user-input program to generate rock-paper-scissors-lizard-spock games between static user entries and random computer entries
